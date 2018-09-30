@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OitoRainhas", "NRainhas\OitoRainhas.csproj", "{67E64A88-2E37-4E4F-A7E0-FDD0947F4A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E64A88-2E37-4E4F-A7E0-FDD0947F4A09}.Debug|x86.ActiveCfg = Debug|x86
+		{67E64A88-2E37-4E4F-A7E0-FDD0947F4A09}.Debug|x86.Build.0 = Debug|x86
+		{67E64A88-2E37-4E4F-A7E0-FDD0947F4A09}.Release|x86.ActiveCfg = Release|x86
+		{67E64A88-2E37-4E4F-A7E0-FDD0947F4A09}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NRainhas\OitoRainhas.csproj
+	EndGlobalSection
+EndGlobal

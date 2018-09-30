@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RainhasImunologico/Solucionador.cs">
+    <Files>
+      <File FileName="../NRainhas/NRainhas/Solucionador.cs" Line="8" Column="59" />
+      <File FileName="RainhasImunologico/Program.cs" Line="9" Column="13" />
+      <File FileName="RainhasImunologico/Solucionador.cs" Line="11" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
